@@ -25,7 +25,6 @@
 
 👉 **Live Portfolio:**  
 https://prem696.github.io/devops-portfolio/
-](https://prem696.github.io/devops-portfolio/)
 ---
 ## ✨ Key Features  
 
@@ -67,10 +66,12 @@ https://prem696.github.io/devops-portfolio/
 ---
 
 ### 🔹 DevOps Portfolio Website  
-- Interactive 3D UI  
-- Real DevOps workflows  
-- Optimized with Nginx  
-
+- 🚀 Production-grade DevOps workflows from code to deployment  
+- ⚙️ Automated CI/CD pipelines enabling rapid and reliable releases  
+- 🐳 Containerized applications with Docker for seamless portability  
+- ☸️ Kubernetes-powered orchestration for high availability & scalability  
+- ☁️ Cloud-native architecture built on AWS infrastructure  
+- 📊 Clean, responsive UI delivering a smooth user experience
 ---
 
 ## 📊 GitHub Analytics (Real-Time)  
@@ -102,6 +103,7 @@ https://prem696.github.io/devops-portfolio/
 ✔ CI/CD Pipelines  
 🔄 Kubernetes & Cloud Scaling  
 🔄 Advanced DevOps Practices
+```
 ---
 ## 📫 Connect With Me  
 
