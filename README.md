@@ -1,16 +1,120 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prem Mangrulkar</h1>
+<h3 align="center">🚀 DevOps Enthusiast | Cloud | Automation | CI/CD</h3>
 
-<!--
-**Prem696/Prem696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer+in+Progress;Cloud+%26+Automation+Enthusiast;Kubernetes+%7C+Docker+%7C+AWS;Building+Scalable+Systems&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+
+- ⚙️ Automating infrastructure & workflows  
+- ☁️ Building cloud-native applications  
+- 🚀 Designing scalable CI/CD pipelines  
+- 🔗 Bridging Dev & Ops  
+
+💡 Currently working on:  
+- Kubernetes (EKS)  
+- Advanced CI/CD pipelines  
+- Cloud architecture  
+
+---
+
+[## 🌐 Portfolio  
+
+👉 **Live Portfolio:**  
+https://prem696.github.io/devops-portfolio/
+](https://prem696.github.io/devops-portfolio/)
+---
+## ✨ Key Features  
+
+- ⚙️ End-to-end DevOps project demonstrations  
+- 🐳 Containerized applications using Docker  
+- ☸️ Kubernetes-based deployment workflows  
+- ☁️ Cloud infrastructure integration (AWS)  
+- 📱 Responsive & production-ready UI  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🚀 DevOps & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible" />
+</p>
+
+### 🔄 CI/CD  
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+</p>
+
+### 💻 Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nginx" />
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 CloudBlitz – Student Platform  
+- Full-stack cloud app  
+- Dockerized services  
+- CI/CD pipeline  
+- Cloud deployment  
+
+---
+
+### 🔹 DevOps Portfolio Website  
+- Interactive 3D UI  
+- Real DevOps workflows  
+- Optimized with Nginx  
+
+---
+
+## 📊 GitHub Analytics (Real-Time)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prem696&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem696&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem696&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧠 Learning Journey  
+
+```text
+✔ Linux Fundamentals  
+✔ Docker & Containerization  
+✔ CI/CD Pipelines  
+🔄 Kubernetes & Cloud Scaling  
+🔄 Advanced DevOps Practices
+---
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prem-mangrulkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prem%20Mangrulkar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://prem696.github.io/devops-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+  </a>
+  
+  <a href="mailto:premmangrulkar22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
